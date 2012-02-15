@@ -1,6 +1,6 @@
 #/usr/bin/env python
 """
-Framework for generating simulated CCD output.
+this is the framework for generating simulated CCD output.
 
 Generates images with points distributed in Gaussian profiles, with errors
 like those expected from the FLI PL50100 dark current and read noise.
